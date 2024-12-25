@@ -1,5 +1,5 @@
 /* required styles */
-
+m.add_title("FIND YOUR FEET MAPPING AND MONITORING SYSTEM", font_size="20px", align="center")
 .leaflet-pane,
 .leaflet-tile,
 .leaflet-marker-icon,
